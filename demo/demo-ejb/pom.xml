@@ -65,6 +65,7 @@
             <groupId>${project.groupId}</groupId>
             <artifactId>demo-data</artifactId>
             <type>ejb</type>
+            <version>0.0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
 
